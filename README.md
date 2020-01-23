@@ -3,9 +3,7 @@ https://mzmlab.hatenablog.com/entry/neural-regress?_ga=2.188565805.42200979.1579
 
 フレームワークはchainerを利用しています。
 
-・nn_regress.py
-  中間層1層のニューラルネットワークで、非線形の回帰問題を解くプログラム。
+・nn_regress.py：中間層1層のニューラルネットワークで、非線形の回帰問題を解くプログラム。
   
-・nn_least_square.py
-  中間層なしのニューラルネットワークで、最小二乗法を模擬したプログラム。
+・nn_least_square.py：中間層なしのニューラルネットワークで、最小二乗法を模擬したプログラム。
   
