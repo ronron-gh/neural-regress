@@ -1,5 +1,5 @@
 以下のブログ「ニューラルネットワークと最小二乗法の違いについて考えてみた」で使用したプログラムを公開します。
-https://mzmlab.hatenablog.com/entry/neural-regress?_ga=2.188565805.42200979.1579619375-148652472.1549099107
+https://mzmlab.hatenablog.com/entry/neural-regress
 
 フレームワークはchainerを利用しています。
 
